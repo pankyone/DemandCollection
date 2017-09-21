@@ -1,0 +1,24 @@
+body
+{
+	margin:0;padding:0;
+	font-family:Î¢ÈíÑÅºÚ;
+}
+.title-div{text-align:center;padding-top:10px;}
+table{margin-top:30px;margin-left:350px;text-align:left;}
+textarea{overflow:auto;resize:none;}
+input,textarea{width:100%; height:100%;border-style:hidden;}
+#keywords,#instruction{border-style:solid; border-color:#ccc;}
+textarea{width:99%;}
+.summary-div textarea{height:200px;}
+
+.keywords-div{margin-top:30px;}
+.keywords-div input{width:92%;}
+#people{line-height:45px;}
+.style{width:auto; height:auto;}
+#instruction{height:16px;}
+#technologyapplication,#classification{disabled:true;}
+.submit-div{text-align:center;}
+#submit-style{background:red; width:60px; height:30px; margin:20px 0;color:#fff;border-radius:5px;}
+#submit-style:hover{color:blue;cursor:pointer;}
+.max200-div{text-align:right;height:30px;}
+.max500-div{text-align:right;height:30px;}

@@ -1,0 +1,8 @@
+body{margin:0;padding:0;font-family:"Î¢ÈíÑÅºÚ";}
+
+.contain{border:1px #ccc solid; width:366px;height:400px;margin-left:500px;margin-top:100px;text-align:center;}
+.form-input{margin-top:50px;}
+.form-input label{display:inline-block;width:75px;text-align:right;}
+.form-input input{margin-left:10px;}
+.form-submit{margin-top:20px;}
+.form-submit a{margin-left:20px;font-size:12px;}
